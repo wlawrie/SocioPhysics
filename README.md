@@ -1,0 +1,2 @@
+# SocioPhysics
+Voter Model stuff
